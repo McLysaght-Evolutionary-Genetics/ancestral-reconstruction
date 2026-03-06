@@ -1,6 +1,6 @@
 # Scripts for reconstructing the evolutionary history of genomic segments through ancestral WGD events
 
-Ancestral genome reconstruction with examples for proto-vertebrate, gnathostome, and cyclostome.
+Ancestral genome reconstruction with examples for proto-vertebrate and proto-gnathostome as per Nakatani et. al., 2021.
 
 ## Building
 
